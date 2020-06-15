@@ -20,3 +20,7 @@ SO THAT I can manage my time effectively
 ## Screenshots
 ![image1](./Assets/img1.png)
 ![image2](./Assets/img2.png)
+![image3](./Assets/img3.png)
+
+## Link
+https://mohammedyasirsuara.github.io/WorkDayPlanner/
